@@ -3,10 +3,6 @@ import re
 from pathlib import Path
 
 
-# 1. Create a function that takes each individual file as input
-# 2. Then iterates over these files to find the life guard that has minimum impact on the pool duty in terms of hours
-# 3. Outputs the hour of the minimum impact lifeguard as the hour that still needs to be covered for
-
 def _get_files(filepath: str):
     """
     This function reads an input file and converts each set of numbers(start and end time) in the file as a sublist,
