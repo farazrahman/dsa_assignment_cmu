@@ -2,10 +2,10 @@
 CMU summer preparation data structures and algorithms assignment
 
 ### About the Project: Data Structure Implementation (Mysterious Safeguards)
-This project is about writing a program to find the lifeguard that has minimum impact on pool coverage, when the pool owner hired an additional life guard. Finding the guar with minimum impact and the hours that can still be covered if a guard is removed. 
+This project is about writing a program to find the lifeguard that has minimum impact on pool coverage, when the pool owner hired an additional life guard. Finding the guard with minimum impact and the hours that can still be covered if a guard is removed. 
 
 ### About the Data:
-The data provided includes 10 scebarios input text files(not committed in the repo);
+The data provided includes 10 scenarios input text files(not committed in the repo);
 
 `1.in`: scenario 1
 
